@@ -3,7 +3,7 @@ import 'package:flutter_day2/simple_login.dart';
 
 class PageKetiga extends StatefulWidget {
  String email, password;
- PageKetiga({this.email, this.password});
+ PageKetiga({this.email, this.passwod})
 
   @override
   _PageKetigaState createState() => _PageKetigaState();
